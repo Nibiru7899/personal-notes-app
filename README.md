@@ -1,2 +1,12 @@
-# personal-notes-app
-A simple web application for users to create, read, update, and delete personal notes. The app will allow users to store and manage their notes in a secure and organized manner. This project will help beginners learn basic CRUD operations and simple I/O operations in Python.
+# Learning Project
+## Description
+A learning project to demonstrate the use of Python, HTML/CSS, and SQLite.
+## Acceptance Criteria
+* The application connects to a SQLite database.
+* The application creates a table in the database.
+* The application inserts data into the table.
+* The application retrieves data from the table.
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies
+3. Run the application using `python src/main.py`
